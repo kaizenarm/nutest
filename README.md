@@ -1,3 +1,11 @@
+
+Скриншоты веб сайта на Laravel
+<p align="center">
+<img src="https://test.ainuan.kz/oldwp/Screenshot_66.png">
+<img src="https://test.ainuan.kz/oldwp/Screenshot_67.png">
+<img src="https://test.ainuan.kz/oldwp/Screenshot_68.png">
+<img src="https://test.ainuan.kz/oldwp/Screenshot_69.png">
+</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
