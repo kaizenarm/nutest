@@ -28,4 +28,7 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
+Route::get('/upload',[\App\Http\Controllers\UploadFileController::class, 'index']);
+Route::post('/upload',[\App\Http\Controllers\UploadFileController::class, 'upload']);
+
 require __DIR__.'/auth.php';
